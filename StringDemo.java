@@ -1,3 +1,7 @@
+//- String di Java adalah objek (bukan tipe data primitive biasa).
+//- Ciri khas String: bersifat immutable (nilainya tidak bisa diubah setelah dibuat).  
+//- Untuk membandingkan apakah dua teks String itu sama isinya, gunakan fungsi .equals(), bukan ==. 
+
 public class StringDemo {
     public static void main(String[] args) {
         // Contoh deklarasi non-primitive 

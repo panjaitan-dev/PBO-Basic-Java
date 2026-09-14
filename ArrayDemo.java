@@ -1,4 +1,4 @@
-/**
+/*
  Array diibaratkan wadah (container) untuk
 menyimpan sekumpulan nilai bertipe sama.
 Ukuran array ditentukan saat dibuat dan

@@ -1,3 +1,6 @@
+// Operator adalah simbol untuk melakukan operasi matematika, perbandingan, atau logika. 
+//  Memahami perbedaan antara operator matematika dasar (+, -, *, /, %), increment/decrement (++, --), relasi/kondisional (==, &&, ||), serta operasi bitwise (&, |, ^).
+
 public class OperatorDemo {
     public static void main(String[] args) {
         // Arithmetic Operators 

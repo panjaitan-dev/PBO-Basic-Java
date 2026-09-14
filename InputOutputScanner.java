@@ -1,3 +1,4 @@
+ // Scanner adalah fitur bawaan Java (java.util.Scanner) untuk membaca input/ketikan pengguna dari konsol.
  import java.util.Scanner;
 
 public class InputOutputScanner {

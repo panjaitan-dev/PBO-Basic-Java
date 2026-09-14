@@ -1,3 +1,9 @@
+// If-Else: Memilih eksekusi kode berdasarkan kondisi True atau False.
+// Switch: Memilih salah satu cabang berdasarkan nilai tertentu.  
+// While / Do-While: Perulangan kode. While mengecek di awal, Do-While mengecek di akhir (pasti minimal 1 kali jalan). 
+//  For / Enhanced For: Perulangan untuk rentang nilai atau membuka isi array. 
+//  Branching (break, continue, return): Menghentikan loop (break), melompati ke iterasi berikutnya (continue), atau keluar dari method (return)
+
 public class ControlStatements {
     public static void main(String[] args) {
         // 1. If-Then-Else 
