@@ -1,16 +1,16 @@
 public class ExpressionStatement {
     public static void main(String[] args) {
-        // Expression (Slide 19)
+       
         int result = 1 + 2; // menghasilkan int
-        if (a == b) System.out.println("Sama"); // *catatan: a dan b sesuai potongan slide
+        if (a == b) System.out.println("Sama"); // 
 
-        // Statement (Slide 20)
+        // Statement 
         double aValue = 8933.234; // assignment & declaration
         aValue++;                 // increment
         System.out.println(aValue); // method call
-        // new Bicycle();         // object creation (potongan dari slide)
+        // new Bicycle();         // object creation 
 
-        // Block (Slide 21)
+        // Block 
         boolean condition = true;
         if (condition) {
             System.out.println("True");

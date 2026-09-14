@@ -1,6 +1,6 @@
 public class ControlStatements {
     public static void main(String[] args) {
-        // 1. If-Then-Else (Slide 23)
+        // 1. If-Then-Else 
         int age = 20;
         if (age >= 18) {
             System.out.println("You are eligible to vote.");
@@ -15,7 +15,7 @@ public class ControlStatements {
             System.out.println("Grade C");
         }
 
-        // 2. Switch Statement (Slide 24)
+        // 2. Switch Statement 
         int month = 8;
         String name;
         switch (month) {
@@ -24,14 +24,14 @@ public class ControlStatements {
             default: name = "Invalid"; break;
         }
 
-        // 3. While & Do-While (Slide 25)
+        // 3. While & Do-While 
         int idxWhile = 1;
         while (idxWhile <= 10) { System.out.println(idxWhile); idxWhile++; }
 
         int idxDo = 1;
         do { System.out.println(idxDo); idxDo++; } while (idxDo <= 10);
 
-        // 4. For & Enhanced For (Slide 26)
+        // 4. For & Enhanced For 
         for (int k = 1; k <= 10; k++) {
             System.out.println(k);
         }
@@ -41,7 +41,7 @@ public class ControlStatements {
             System.out.println(n);
         }
 
-        // 5. Branching Statements - break, continue, return (Slide 27 & 28)
+        // 5. Branching Statements - break, continue, return 
         int[] aArray = {32, 87, 3, 589, 12};
         int target = 12; 
         int idxTarget = -1;

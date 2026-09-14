@@ -29,3 +29,4 @@ class Demo {
  // Array adalah koleksi elemen bertipe sama , diakses via indeks
  int[] arr = {1, 2, 3};
  double[] arr2 = {1.1, 2.2};
+
