@@ -1,0 +1,2 @@
+Inheritance.VehicleSingle
+Inheritance.CarSingle

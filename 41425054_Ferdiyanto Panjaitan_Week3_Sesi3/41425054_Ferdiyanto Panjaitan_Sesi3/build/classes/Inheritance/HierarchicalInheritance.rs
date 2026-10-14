@@ -1,0 +1,3 @@
+Inheritance.VehicleHierarchical
+Inheritance.CarHierarchical
+Inheritance.BusHierarchical
