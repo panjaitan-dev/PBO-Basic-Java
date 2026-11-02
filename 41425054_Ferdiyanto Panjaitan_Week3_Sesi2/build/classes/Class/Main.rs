@@ -1,2 +1,0 @@
-PBO_W03S02_41425054.materi1_class_object.Main
-PBO_W03S02_41425054.materi1_class_object.Student
